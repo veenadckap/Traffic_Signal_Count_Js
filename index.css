@@ -1,0 +1,75 @@
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2%;
+}
+
+.subDiv{
+    background-color: #333333;
+    width: 16%;
+    height: 493px;
+    border-radius: 21px;
+}
+
+.circle1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
+#innerDiv{
+    width:48%;
+    height: 105px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.circle2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
+
+#innerSecond{
+    width:48%;
+    height: 105px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.circle3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
+
+#innerThird{
+    width: 48%;
+    height: 105px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+#count{
+    width: 51%;
+    height: 46px;
+    background-color: #999999;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+}
+
+#num{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  
+}
